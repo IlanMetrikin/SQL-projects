@@ -1,1 +1,1 @@
-Hello, here you will find my SQL projrcts.
+Hello, here you will find my SQL projects.
