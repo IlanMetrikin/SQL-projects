@@ -1,1 +1,1 @@
-Hello, in this repo you will find my SQL projects
+Hello, here you will find my SQL projrcts.
